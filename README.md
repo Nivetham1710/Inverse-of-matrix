@@ -41,7 +41,7 @@ print(inverse)
 ```
 
 ## OUTPUT:
-![GitHub Logo](.//i1.png)
+![GitHub Logo](.//I1.png)
 
 ## RESULT:
 thus the program is written to find the matrix.
